@@ -1,0 +1,121 @@
+body {
+  background-color: #CCCCCC;
+}
+
+.titleBar {
+  background-color: #000000;
+  display: block;
+  color: #FFFFFF;
+  padding-top: 1px;
+  padding-bottom: 10px;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+}
+
+.searchflixTitle {
+  font-family: "Oswald", sans-serif;
+}
+
+.searchflixLogo {
+  color: #DB0000;
+}
+
+.form-control {
+  font-size: 24px;
+  display: block;
+  width: 100%;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 16px;
+}
+
+.form-control:focus {
+  border-color: #DB0000;
+}
+
+.emptySearch {
+  font-size: 150px;
+  text-align: center;
+  color: #B2B2B2;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.rating {
+  display: inline;
+}
+
+.genres {
+  display: inline-block;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  padding: 3px;
+}
+
+.well {
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+
+.well:hover {
+  background-color: #E5E5E5;
+}
+
+.btn-success {
+  margin-right: 10px;
+}
+
+.footerBar{
+  background-color: #000000;
+  display: block;
+  color: #FFFFFF;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family:"Roboto", sans-serif;
+  text-align: center;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+.toasted{
+  font-family: "PT Mono", monospace;
+}
+
+a {
+  color: #CCCCCC;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
