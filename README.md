@@ -1,4 +1,4 @@
-# Searchflix
+# [Searchflix](https://tauster.github.io/searchflix/)
 #### _Movie searching React app_
 
-Note: Place The MovieDB API key inside `.env` file within the root directory.
+Check it out [here](https://tauster.github.io/searchflix/).
