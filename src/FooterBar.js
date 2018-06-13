@@ -12,7 +12,7 @@ class FooterBar extends React.Component {
         <p>Powered by <a target="_blank" rel="noopener noreferrer" href="https://www.themoviedb.org/">The Movie Database (TMDb)</a></p>
         
         {/* Toasted.ai Branding */}
-        <p className="toasted">&copy; 2018 <a target="_blank" rel="noopener noreferrer" href="http://www.toasted.ai/">toasted.ai</a></p>
+        <p className="toasted">made by <a target="_blank" rel="noopener noreferrer" href="http://www.toasted.ai/">toasted.ai</a></p>
       </div>
     );
   }
