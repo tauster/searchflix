@@ -1,4 +1,4 @@
-# [Searchflix](searchflix.toasted.ai)
+# [Searchflix](https://tauster.github.io/searchflix/)
 #### _Movie searching React app_
 
-Check it out [here](searchflix.toasted.ai).
+Check it out [here](https://tauster.github.io/searchflix/).
